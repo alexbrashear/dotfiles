@@ -7,3 +7,4 @@ set ruler
 set history=50
 set backspace=indent,eol,start
 set bg=light
+syntax on
